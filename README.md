@@ -10,7 +10,7 @@ This is a CTIS 487 Mobile Application Development homework.
  * JSON
  * Android XML Library
  
-##### Features of the project
+#### Features of the project
 - JSON Parse into a Database
 - Custom Spinner
 - Custom Recycler View (Multiple View)
