@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NiyaziCokuysal_HW2</string>
+    <string name="welcome">Welcome to</string>
+    <string name="title">From The Owner</string>
+    <string name="select">Select The Brand You Want</string>
+    <string name="ok">SELECT</string>
+    <string name="secondSelect">Please Select a Car</string>
+    <string name="detail">Your Selected Car Info</string>
+</resources>

@@ -1,0 +1,66 @@
+{
+  "cars":[
+    {
+      "model":"Opel",
+      "year":"2018",
+      "image":"opel1.jpg",
+      "price":"200.000$",
+      "discount": "1"
+    },
+    {
+      "model":"Opel",
+      "year":"2019",
+      "image":"opel2.jpg",
+      "price":"220.000$",
+      "discount": "0"
+    },
+    {
+      "model":"Opel",
+      "year":"2013",
+      "image":"opel3.jpg",
+      "price":"170.000$",
+      "discount": "1"
+    },
+    {
+      "model":"BMW",
+      "year":"2017",
+      "image":"bmw1.jpg",
+      "price":"250.000$",
+      "discount": "0"
+    },
+    {
+      "model":"BMW",
+      "year":"2015",
+      "image":"bmw2.jpg",
+      "price":"150.000$",
+      "discount": "0"
+    },    {
+      "model":"BMW",
+      "year":"2020",
+      "image":"bmw3.jpg",
+      "price":"300.000$",
+      "discount": "1"
+    },
+    {
+      "model":"Volkswagen",
+      "year":"2017",
+      "image":"volkswagen1.jpeg",
+      "price":"100.000$",
+      "discount": "0"
+    },
+    {
+      "model":"Volkswagen",
+      "year":"2016",
+      "image":"volkswagen2.jpeg",
+      "price":"225.000$",
+      "discount": "1"
+    },
+    {
+      "model":"Volkswagen",
+      "year":"2010",
+      "image":"volkswagen3.jpg",
+      "price":"170.000$",
+      "discount": "0"
+    }
+  ]
+}
